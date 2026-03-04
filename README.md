@@ -88,7 +88,7 @@ The best performing model was selected based on test accuracy.
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/loan-prediction-app.git
