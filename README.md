@@ -1,5 +1,8 @@
 # 🏦 Loan Approval Prediction System
 
+![Home Page](loan-prediction-system.png)
+
+
 ## 📌 Project Overview
 
 The Loan Approval Prediction System is a Machine Learning web application that predicts whether a loan application will be approved or rejected based on applicant financial and demographic details.
