@@ -56,14 +56,15 @@ The best performing model was selected based on test accuracy.
 
 ## 📈 Model Performance
 
-| Model | Training Accuracy | Test Accuracy |
-|--------|-------------------|--------------|
-| Logistic Regression | ~82% | ~80% |
-| SVM | ~84% | ~81% |
-| Random Forest | ~90% | ~85% |
+| Model | Train Accuracy | Test Accuracy |
+|------|---------------|--------------|
+| Logistic Regression | 74.83% | 78.38% |
+| Decision Tree | 82.05% | 82.70% |
+| Random Forest | 82.75% | 84.32% |
+| SVM | 85.31% | 78.91% |
+| XGBoost | **80.65%** | **84.86%** |
 
-✅ Random Forest achieved the best performance and was saved as the final model.
-
+**Best Model:** XGBoost achieved the highest test accuracy (84.86%) for loan approval prediction.
 ---
 
 ## 🛠️ Tech Stack
